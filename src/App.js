@@ -27,3 +27,5 @@ export default function App() {
     </div>
   );
 }
+
+//https://medium.com/@Vaibhavihole31/creating-a-star-rating-bar-in-reactjs-a3f66456d7bb
